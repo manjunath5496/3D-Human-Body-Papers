@@ -62,58 +62,51 @@ for Multi-Person Monocular 3D Pose Estimation</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(30).pdf" style="text-decoration:none;">Expressive Body Capture: 3D Hands, Face, and Body from a Single Image</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(31).pdf" style="text-decoration:none;">Motion Retargetting based on Dilated Convolutions and Skeleton-specific Loss Functions</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(32).pdf" style="text-decoration:none;">PI-Net: Pose Interacting Network
+for Multi-Person Monocular 3D Pose Estimation</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(33).pdf" style="text-decoration:none;">Multi-view Neural Human Rendering</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(34).pdf" style="text-decoration:none;">Skeleton-Aware Networks for Deep Motion Retargeting</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(35).pdf" style="text-decoration:none;">SCAPE: Shape Completion and Animation of People</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(36).pdf" style="text-decoration:none;">Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(37).pdf" style="text-decoration:none;">SMPL: A Skinned Multi-Person Linear Model</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(38).pdf" style="text-decoration:none;">FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(39).pdf" style="text-decoration:none;">LiveCap: Real-Time Human Performance Capture From Monocular Video</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(40).pdf" style="text-decoration:none;">Wallpaper Pattern Alignment along Garment Seams</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(41).pdf" style="text-decoration:none;">Aggregated Multi-GANs for Controlled 3D Human Motion Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(42).pdf" style="text-decoration:none;">Exemplar Fine-Tuning for 3D Human Model Fitting Towards In-the-Wild 3D Human Pose Estimation</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(43).pdf" style="text-decoration:none;">VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(44).pdf" style="text-decoration:none;">Reflection Symmetry in Textured Sewing Patterns</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(45).pdf" style="text-decoration:none;">3D Human Avatar Digitization from a Single Image</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(46).pdf" style="text-decoration:none;">DeePSD: Automatic Deep Skinning And Pose Space Deformation For 3D Garment Animation</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(47).pdf" style="text-decoration:none;">Monocular Expressive Body Regression
+through Body-Driven Attention</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(48).pdf" style="text-decoration:none;">End-to-end Recovery of Human Shape and Pose</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(49).pdf" style="text-decoration:none;">PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(50).pdf" style="text-decoration:none;">Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(51).pdf" style="text-decoration:none;">Learning 3D Human Shape and Pose from
+Dense Body Parts</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(52).pdf" style="text-decoration:none;">Motion Capture from Internet Videos</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(53).pdf" style="text-decoration:none;">CenterHMR: Multi-Person Center-based Human Mesh Recovery</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(54).pdf" style="text-decoration:none;">ANR: Articulated Neural Rendering for Virtual Avatars </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(55).pdf" style="text-decoration:none;">RobustFusion: Human Volumetric Capture with Data-driven Visual Cues using a RGBD Camera</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(56).pdf" style="text-decoration:none;">Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Human-Body-Papers/blob/master/d(57).pdf" style="text-decoration:none;">RigNet: Neural Rigging for Articulated Characters</a></li>
  
    </ul>
   
